@@ -141,3 +141,10 @@ html {
   font-size: 1.5rem;
   text-decoration: line-through;
 }
+
+nav .menu a:hover{
+
+  font-size: 18px;
+  transition: 0.5s;
+  text-decoration: underline;
+}
