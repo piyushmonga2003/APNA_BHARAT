@@ -104,3 +104,10 @@ html {
 .services .box-container .box:hover {
   box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.1);
 }
+
+nav .menu a:hover{
+
+  font-size: 18px;
+  transition: 0.5s;
+  text-decoration: underline;
+}
